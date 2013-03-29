@@ -1,4 +1,7 @@
 telesign-python-client
 ======================
 
-Command line client for testing TeleSign Python SDK
+Command line client for using TeleSign Python SDK
+See https://github.com/TeleSign/python_telesign for SDK.
+
+
