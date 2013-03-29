@@ -12,8 +12,7 @@ while also accomplishing my evaluation tasks.  I cleaned things up a little, and
 put it on github in case somebody else found themselves in a similar position.
 Feel free to take and modify to suit your needs.
 
-Cheers,
-Chris
+Cheers
 
 Prerequisites
 ======================
@@ -21,6 +20,7 @@ Install TeleSign's Python SDK.
 https://github.com/TeleSign/python
 
 Obtain TeleSign customer id and secret key from TeleSign.
+
     # Update call_svc with your customer id and secrect key
     cust_id = ""     # Your TeleSign customer id here.
     secret_key = ""  # Your TeleSign secret key here.
