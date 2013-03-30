@@ -31,7 +31,7 @@ Send verification code via SMS:
 
     $ python verify_client.py
     $ Enter Verify service ['call', 'sms', 'status']: sms
-    $ Enter phone_number (required):
+    $ Enter phone_number (required): 12225556666
     $ Enter language (optional):
     $ Enter template (optional):
     $ Calling Verify [sms]...

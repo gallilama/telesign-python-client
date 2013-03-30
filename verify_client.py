@@ -89,6 +89,5 @@ def run():
     svc_args = prompt_svc_args(get_svc_params(svc_type))
     call_svc(svc_type, svc_args)
 
-# run until manually killed
-while True:
+if __name__ == '__main__':
     run()
