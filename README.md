@@ -49,3 +49,10 @@ Verify the status of the previous SMS:
     $ Code [None]  Result: {'status': {'updated_on': '2013-03-27T15:13:12.235918Z', 'code': 203, 'description': 'Delivered to gateway'}, 'errors': [], 'verify': {'code_state': 'UNKNOWN', 'code_entered': ''}, 'sub_resource': 'sms', 'reference_id': '113DAC68C1AC0E0BE4D42FE500000D25', 'resource_uri': '/v1/verify/113DAC68C1AC0E0BE4D42FE500000D25'}
     $ Enter Verify service ['call', 'sms', 'status']:
     // rinse and repeat, ctrl-c to stop
+
+Backlog
+======================
+* Support config file for TeleSign customer_id, and secret_key
+* Add PhoneId support
+* Add some state so not constantly repeating things
+
