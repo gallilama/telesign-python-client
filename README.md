@@ -3,7 +3,7 @@ telesign-python-client
 
 Command line client for testing/evaluating TeleSign REST API using TeleSign's Python SDK.
 
-TeleSign Python SDK: https://github.com/TeleSign/python
+TeleSign Python SDK: https://github.com/TeleSign/python_telesign
 
 I was recently tasked with evaluating TeleSign's REST API.
 The good folks at TeleSign were kind enough to provide SDKs in a few languages.
@@ -17,7 +17,7 @@ Cheers
 Prerequisites
 ======================
 Install TeleSign's Python SDK.
-https://github.com/TeleSign/python
+https://github.com/TeleSign/python_telesign
 
 Obtain TeleSign customer id and secret key from TeleSign.
 
